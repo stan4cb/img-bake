@@ -4,4 +4,6 @@ version = "0.1.0"
 authors = ["Stanislav Ursache <d34dkn16h7@gmail.com>"]
 
 [dependencies]
-image = "0.10.0" // http://www.piston.rs/image/image/
+image = "0.10.0"
+qrcode = "0.2.0"
+time = "0.1.35"
